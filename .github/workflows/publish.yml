@@ -30,4 +30,8 @@ jobs:
       REPO: self
       BRANCH: gh-pages
       FOLDER: out
+<<<<<<< HEAD
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+=======
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> a5c7c0136ba5d50765196ae8ae7bfcfb28609c21
